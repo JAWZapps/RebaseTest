@@ -15,6 +15,7 @@
 		8CEE18B51BA5C58F00F63F11 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CEE18B41BA5C58F00F63F11 /* Images.xcassets */; };
 		8CEE18B81BA5C58F00F63F11 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CEE18B61BA5C58F00F63F11 /* LaunchScreen.xib */; };
 		8CEE18C41BA5C58F00F63F11 /* GitTesterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEE18C31BA5C58F00F63F11 /* GitTesterTests.swift */; };
+		8CEE18D01BA5DE3D00F63F11 /* Bollocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEE18CF1BA5DE3D00F63F11 /* Bollocks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		8CEE18BD1BA5C58F00F63F11 /* GitTesterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTesterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CEE18C21BA5C58F00F63F11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8CEE18C31BA5C58F00F63F11 /* GitTesterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTesterTests.swift; sourceTree = "<group>"; };
+		8CEE18CF1BA5DE3D00F63F11 /* Bollocks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bollocks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				8CEE18B61BA5C58F00F63F11 /* LaunchScreen.xib */,
 				8CEE18AA1BA5C58E00F63F11 /* GitTester.xcdatamodeld */,
 				8CEE18A61BA5C58E00F63F11 /* Supporting Files */,
+				8CEE18CF1BA5DE3D00F63F11 /* Bollocks.swift */,
 			);
 			path = GitTester;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				8CEE18A91BA5C58E00F63F11 /* AppDelegate.swift in Sources */,
 				8CEE18AC1BA5C58E00F63F11 /* GitTester.xcdatamodeld in Sources */,
 				8CEE18AE1BA5C58E00F63F11 /* MasterViewController.swift in Sources */,
+				8CEE18D01BA5DE3D00F63F11 /* Bollocks.swift in Sources */,
 				8CEE18B01BA5C58E00F63F11 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -419,6 +423,7 @@
 				8CEE18C91BA5C58F00F63F11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CEE18CA1BA5C58F00F63F11 /* Build configuration list for PBXNativeTarget "GitTesterTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +432,7 @@
 				8CEE18CC1BA5C58F00F63F11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
