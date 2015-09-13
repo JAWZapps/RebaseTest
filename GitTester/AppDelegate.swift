@@ -55,6 +55,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDele
         self.saveContext()
         
         println("this is some more develop crap")
+        println("uh oh this is going to clash with whats in the feature branch")
     }
 
     // MARK: - Split view
