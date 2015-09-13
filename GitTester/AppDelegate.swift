@@ -33,6 +33,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDele
         // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
         
         println("added some crap to develop")
+        println("something new in the feature branch")
     }
 
     func applicationDidEnterBackground(application: UIApplication) {
